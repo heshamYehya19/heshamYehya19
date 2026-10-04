@@ -17,7 +17,7 @@ Retrieval-Augmented Generation (RAG)
 Flutter architecture (Riverpod, Firebase)
 Prompt engineering with Gemini & OpenAI APIs
 🎯 Career Goal
-Become an AI/ML Engineer building practical, deployed AI systems — not just models in notebooks.
+Become an AI Engineer building practical, deployed AI systems — not just models in notebooks.
 🤝 I compete in hackathons and entrepreneurship competitions.
 🛠 Tech Stack
 Programming Languages
